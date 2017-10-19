@@ -43,6 +43,7 @@ Veja o exemplo abaixo de como utilizar os botões:
 
 OBS: Estarei sempre atualizado ;-)
 
-Sigam-me os bons! :D
-[Facebook](https://www.facebook.com/matheusgomesdev)
-[Instagram](https://www.instagram.com/matheusgomesbs)
+## Sigam-me os bons! :D
+
+ * [Facebook](https://www.facebook.com/matheusgomesdev)
+ * [Instagram](https://www.instagram.com/matheusgomesbs)
