@@ -1,6 +1,6 @@
 # Web Assets
 
-Um projeto para te ajudar a montar o seu Front mais rápido e poupar tempo
+Um projeto para te ajudar a montar o seu Front mais rápido e poupar tempo.
 cada pasta tem um README.md explicando como funciona. Ahh se você quiser dar uma ideia
 do que podemos colocar aqui eu agradeço! :D
 
