@@ -7,11 +7,10 @@ do que podemos colocar aqui eu agradeço! :D
 ## O que foi adicionado
 
  * CSS - Buttons
+ * CSS - Gradiennts
 
 
 OBS: Estarei sempre atualizado ;-)
-
-Sigam-me os bons! :D
 
 ## Sigam-me os bons! :D
 
